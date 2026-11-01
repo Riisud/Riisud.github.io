@@ -1,4 +1,4 @@
-# Riisud
+# Thomas Vandergraesen
 Aspiring security analyst | incident response | digital forensics
 
 ## About me
